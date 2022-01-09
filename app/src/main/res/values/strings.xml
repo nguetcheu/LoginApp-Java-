@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnApp</string>
+    <string name="simple_texte">Simple texte</string>
+    <string name="logo_login">Logo login</string>
+    <string name="label_nom">Username</string>
+    <string name="placeholder_nom">Pardon entrer votre nom</string>
+    <string name="label_password">Password</string>
+    <string name="placeholder_password">Pardon entrer votre mot de passe</string>
+    <string name="btn_connexion">Connexion</string>
+</resources>
